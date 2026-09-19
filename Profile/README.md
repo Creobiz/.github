@@ -31,12 +31,3 @@ The core engineering and strategy team driving this project forward:
 
 ## 🚀 Getting Started
 
-### Prerequisites
-* Node.js and npm installed
-* Java 17+ and Maven
-* Supabase account and project API keys
-
-### Local Installation
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-organization/creator-connect.git](https://github.com/your-organization/creator-connect.git)
